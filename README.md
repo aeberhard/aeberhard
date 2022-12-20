@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![aeberhard github stats](https://github-readme-stats.vercel.app/api?username=aeberhard&count_private=true&show_icons=true&hide=stars&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeberhard&theme=radical&langs_count=6&layout=compact)
+
 <!--
 **aeberhard/aeberhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
