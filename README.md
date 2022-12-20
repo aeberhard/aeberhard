@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   
 ### Hi there 👋
 
@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeberhard&theme=default&langs_count=6&layout=compact)
 
-</center>
+</div>
   
 <!--
 **aeberhard/aeberhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
